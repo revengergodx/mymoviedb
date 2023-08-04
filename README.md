@@ -6,6 +6,5 @@
 
 <p>For testing purposes you can use <b>php artisan db:seed</b> to fill your db with some data.</p>
 
-##
-Roles:
+## Roles:
 There is two roles: Admin and regular user. Only admin add new movies. Also admin can use watched and wishlisted pages too.
